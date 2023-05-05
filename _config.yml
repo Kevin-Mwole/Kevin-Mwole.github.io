@@ -42,8 +42,7 @@ author: GitHub User
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description: >- # this means to ignore newlines until "baseurl:"
-Growth and progress
+description: >- # this means to ignore newlines until "baseurl:"Growth and progress
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
