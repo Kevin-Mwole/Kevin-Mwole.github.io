@@ -14,4 +14,4 @@ Kevin is a developer and Electronuics and Computer engineering Student with a wi
 ### SLOGAN
 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
 ### CONTACT
-If interested check out my [website] and also can reach me at [email] and also follow me on [Linkedin]
+If interested check out my [website](Kevin-Mwole.github.io) . Reach me at [email](mwole100@gmail.com) and also follow me on [Linkedin](https://www.linkedin.com/in/kevin-kehenzi-0a59a0225/)
